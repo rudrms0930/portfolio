@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요 백엔드 개발자의 꿈을 키워나가는 학생 이경근입니다!
 
 </br>
 
@@ -18,8 +18,10 @@
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
 >개발 기간: 2023-11-28~2024-1-5
 >  
->기술 스택:  
+>기술 스택:
+</br>
 > Back-end : java, python, Apache Tomcat 9.0, Oracle DateBase
+</br>
 > Front-end : HTML, CSS, JS
 
 ---
