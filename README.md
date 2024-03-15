@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
+### 1. [대시보드 기반의 탄소중립 실현 서비스](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
 >개발 기간: 2023-11-28~2024-1-5
 >  
 >기술 스택:
