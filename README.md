@@ -20,6 +20,7 @@
 
 > ### 제안배경
 ![4](https://github.com/rudrms0930/portfolio/assets/147472815/19e516d3-4a68-4172-a550-81a32051c36b)
+![9](https://github.com/rudrms0930/portfolio/assets/147472815/abab5fe3-c510-4e7f-926f-df7d4b631b61)
 
 
 > ### 개발도구와 서비스 흐름도
