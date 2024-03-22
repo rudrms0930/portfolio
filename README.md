@@ -19,7 +19,12 @@
 >개발 기간: 2023-11-28~2024-1-5
 </br>
 >역할 : 로그인/회원가입 기능 구현, 홈 화면 설계
-</br>
+</br></br></br>
+![1](https://github.com/rudrms0930/portfolio/assets/147472815/57904b15-d566-4c0c-8e98-72e5af2960bb)
+
+![4](https://github.com/rudrms0930/portfolio/assets/147472815/e11b636f-d93c-4ae7-ab8e-6d9850530424)
+
+
 >기술 스택: Back-end : java, python, Apache Tomcat 9.0, Oracle DateBase
 </br>
 > Front-end : HTML, CSS, JS
